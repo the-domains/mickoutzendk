@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.2193158743903041
 name: mickoutzen.dk
+navigation:
+  - name: Om
+    url: 'http://mickoutzen.dk'
+    type: external
 title: mickoutzen.dk
 description: velkommen
