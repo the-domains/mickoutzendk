@@ -1,4 +1,3 @@
-layout_spectrum: 0.2193158743903041
 typography_spectrum: 0.3931913641281426
 color:
   brandStrength: 0.24856633273884654
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.2193158743903041
 name: mickoutzen.dk
+title: mickoutzen.dk
